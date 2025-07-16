@@ -17,14 +17,69 @@
   <a href="https://www.linkedin.com/in/jignesh-pampaniya-9a2002294" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/jignesh_1409" target="_blank">
+  <a href="https://instagram.com/jignesh.1409" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/JigneshPampaniya/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+<h3 align="left">Languages and Tools:</h3>
 
+<table style="width:100%;">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  
+  <!-- Programming Languages -->
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge&height=30"alt="Java" width="40" height="20" />
+      java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20" />
+      C++
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" />
+      JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20" />
+      C
+    </td>
+  </tr>
+    <tr>
+      <!-- Frontend -->
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20" />
+      React
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="20" height="20" />
+      HTML
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="20" height="20" />
+      CSS
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="20" height="20" />
+      Tailwind CSS
+    </td>
+  </tr>
+   <tr>
+     <!-- Database -->
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20" />
+      MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="20" height="20" />
+      Oracle
+    </td>
+  </tr>
+   <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20" />
+      Git
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="Github" width="60" height="60"/>
+      Github
+    </td>
+  </tr>
+</table>
 
 
 <!--
