@@ -7,6 +7,26 @@
 </p>
 
 
+<ul style="list-style-type: none; font-size: 18px;">
+  <li>🔭 I’m currently working on <b>Backend development</b></li>
+  <li>💬 Ask me about <b>DSA, MERN, java</b></li>
+  <li>📫 How to reach me: <b>jigneshpampaniya935@gmail.com</b></li>
+</ul>
+<h3 align="left" style="color: #4CAF50;">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jignesh-pampaniya-9a2002294" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jignesh_1409" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/JigneshPampaniya/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+
+
 <!--
 **JIGNESH1409/JIGNESH1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
