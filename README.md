@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center" style="color: #4CAF50;">Hi, This is Jignesh Pampaniya</h1>
+<h3 align="center" style="color: #FFC107;">A passionate developer from India</h3>
+<img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
+<h2 align="center" style="color: #9C27B0;">Profile Overview</h2>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=JIGNESH1409&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 <!--
 **JIGNESH1409/JIGNESH1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
