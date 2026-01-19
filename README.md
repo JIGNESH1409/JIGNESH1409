@@ -8,7 +8,7 @@
 
 
 <ul style="list-style-type: none; font-size: 18px;">
-  <li>🔭 I’m currently working on <b>Backend development</b></li>
+  <li>🔭 I’m currently working on <b>Devops</b></li>
   <li>💬 Ask me about <b>DSA, MERN, java</b></li>
   <li>📫 How to reach me: <b>jigneshpampaniya935@gmail.com</b></li>
 </ul>
